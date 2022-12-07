@@ -5,3 +5,22 @@ body{
 li{
     list-style-type: none;
 }
+
+#ingredientes{
+    background-color: #646464;
+    max-width: 80ch;
+    margin: 1rem auto;
+    padding: 2rem 1rem;
+}
+#preparo{
+    background-color: #646464;
+    max-width: 80ch;
+    margin: 1rem auto;
+    padding: 2rem 1rem;
+}
+div {
+    background-color: #646464;
+    max-width: 80ch;
+    margin: 1rem auto;
+    padding: 1rem 1rem;
+}
